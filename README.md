@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 =======
 # Gemini_Clone_2.0
 This is a Clone of Gemini Chat App created using React-Vite-Gemini Pro 1.0
->>>>>>> 340b7a45e4dde647120a657a629084bf858118b0
+
